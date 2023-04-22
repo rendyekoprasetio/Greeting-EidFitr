@@ -8,8 +8,8 @@ html,
 
 body {
    font-size: 5pt;
-   width: 70%;
-   height: 70%;
+   width: 100%;
+   height: 100%;
    background-size: cover;
    overflow-x: hidden !important;
 }
